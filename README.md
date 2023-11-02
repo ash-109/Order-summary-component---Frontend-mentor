@@ -7,7 +7,7 @@ The site is live at https://ash-109.github.io/Order-summary-component-Frontendme
 The site is live at https://ash-109.github.io/Order-summary-component-Frontendmentor/
 
 
-![Design preview for the Order summary card coding challenge](design\desktop-design.jpg)
+![Design preview for the Order summary card coding challenge](https://github.com/ash-109/Order-summary-component-Frontendmentor/blob/main/design/desktop-design.jpg)
 
 ## Welcome! 👋
 
